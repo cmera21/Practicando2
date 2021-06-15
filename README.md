@@ -1,3 +1,7 @@
+
 # Practicando2
-*.jpg
+
 # Practicando3
+
+# Practicando2 
+
